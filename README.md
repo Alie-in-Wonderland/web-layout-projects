@@ -10,3 +10,4 @@
 
 По [ссылке](https://cdpn.io/pen/debug/gOPyrJQ?authentication_hash=LQMExZYgVmOk) можно посмотреть сам макет лендинга.
 
+<image src="/C:\Users\Aliee\Desktop\image\1dffb7d5853d1d69dbfb01f1c0169e9e.png" alt="Текст с описанием картинки">
