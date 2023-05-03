@@ -8,7 +8,9 @@
 | Макет лендинга | Страница блога о творчестве, спорте и образе жизни | HTML, CSS |
 
 
-По [ссылке](https://cdpn.io/pen/debug/gOPyrJQ?authentication_hash=LQMExZYgVmOk) можно посмотреть сам макет лендинга.
+По **[ссылке](https://cdpn.io/pen/debug/gOPyrJQ?authentication_hash=LQMExZYgVmOk)** можно посмотреть сам макет лендинга.
+
+Также можно посмотреть код в редакторе **CodePen**: **[код](https://codepen.io/Aleonaaleona/pen/gOPyrJQ)**.
 
 
   
