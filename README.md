@@ -1,3 +1,7 @@
 # web-layout-projects
 
-[Посмотреть лендинг:](https://cdpn.io/pen/debug/gOPyrJQ?authentication_hash=LQMExZYgVmOk)
+
+| Название проекта | Описание | Инструменты | Ссылка на проект |
+| :-------------------- | :--------------------|:--------------------|:--------------------|
+| Макет лендинга | Страница блога о творчестве, спорте и образе жизни | HTML, CSS | [Ссылка](https://cdpn.io/pen/debug/gOPyrJQ?authentication_hash=LQMExZYgVmOk) |
+
